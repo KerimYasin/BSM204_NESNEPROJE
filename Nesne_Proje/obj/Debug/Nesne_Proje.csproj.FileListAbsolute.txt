@@ -1,0 +1,17 @@
+C:\Users\234410088\source\repos\Nesne_Proje\Nesne_Proje\obj\Debug\Nesne_Proje.csproj.AssemblyReference.cache
+C:\Users\234410088\source\repos\Nesne_Proje\Nesne_Proje\obj\Debug\Nesne_Proje.Properties.Resources.resources
+C:\Users\234410088\source\repos\Nesne_Proje\Nesne_Proje\obj\Debug\Nesne_Proje.csproj.GenerateResource.cache
+C:\Users\234410088\source\repos\Nesne_Proje\Nesne_Proje\obj\Debug\Nesne_Proje.csproj.CoreCompileInputs.cache
+C:\Users\234410088\source\repos\Nesne_Proje\Nesne_Proje\bin\Debug\Nesne_Proje.exe.config
+C:\Users\234410088\source\repos\Nesne_Proje\Nesne_Proje\bin\Debug\Nesne_Proje.exe
+C:\Users\234410088\source\repos\Nesne_Proje\Nesne_Proje\bin\Debug\Nesne_Proje.pdb
+C:\Users\234410088\source\repos\Nesne_Proje\Nesne_Proje\obj\Debug\Nesne_Proje.exe
+C:\Users\234410088\source\repos\Nesne_Proje\Nesne_Proje\obj\Debug\Nesne_Proje.pdb
+C:\Users\234410088\source\repos\Nesne_Proje\Nesne_Proje\obj\Debug\Nesne_Proje.Form1.resources
+C:\Users\234410088\source\repos\Nesne_Proje\Nesne_Proje\obj\Debug\Nesne_Proje.NESNE_CLASS.UI.CartForm.resources
+C:\Users\234410088\source\repos\Nesne_Proje\Nesne_Proje\obj\Debug\Nesne_Proje.NESNE_CLASS.UI.LoginForm.resources
+C:\Users\234410088\source\repos\Nesne_Proje\Nesne_Proje\obj\Debug\Nesne_Proje.NESNE_CLASS.UI.OrderHistoryForm.resources
+C:\Users\234410088\source\repos\Nesne_Proje\Nesne_Proje\obj\Debug\Nesne_Proje.NESNE_CLASS.UI.___MainForm.resources
+C:\Users\234410088\source\repos\Nesne_Proje\Nesne_Proje\obj\Debug\Nesne_Proje.UserControl1.resources
+C:\Users\234410088\source\repos\Nesne_Proje\Nesne_Proje\obj\Debug\Nesne_Proje.NESNE_CLASS.UI.ProductForm.resources
+C:\Users\234410088\source\repos\Nesne_Proje\Nesne_Proje\obj\Debug\Nesne_Proje.NESNE_CLASS.UI.BAKİYE.resources

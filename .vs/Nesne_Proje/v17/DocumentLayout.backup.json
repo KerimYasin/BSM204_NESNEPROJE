@@ -1,0 +1,709 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\app1.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\app1.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\ui\\\uD83E\uDDF1 mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\ui\\\uD83E\uDDF1 mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\ui\\\uD83E\uDDF1 mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\ui\\\uD83E\uDDF1 mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\ui\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\ui\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\ui\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\ui\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\ui\\orderhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\ui\\orderhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\ui\\orderhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\ui\\orderhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\ui\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\ui\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|c:\\users\\234410088\\source\\repos\\nesne_proje\\nesne_proje\\nesne_class\\ui\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\ui\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\ui\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\ui\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\ui\\bak\u0130ye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\ui\\bak\u0130ye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\ui\\bak\u0130ye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\ui\\bak\u0130ye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|c:\\users\\234410088\\source\\repos\\nesne_proje\\nesne_proje\\nesne_class\\ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\repositories\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\repositories\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\repositories\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\repositories\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\repositories\\orderitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\repositories\\orderitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\repositories\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\repositories\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\repositories\\cartitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\repositories\\cartitemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\models\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\models\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\models\\kullan\u0131c\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\models\\kullan\u0131c\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\ui\\productform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\ui\\productform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\ui\\orderhistoryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\ui\\orderhistoryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\nesne_proje\\nesne_class\\ui\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F582A5A2-26FB-42C6-B8F8-656AC08810DC}|Nesne_Proje\\Nesne_Proje.csproj|solutionrelative:nesne_proje\\nesne_class\\ui\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\UserControl1.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\UserControl1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Nesne_Proje\\UserControl1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:54:50.18Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\UserControl1.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\UserControl1.cs",
+              "RelativeToolTip": "Nesne_Proje\\UserControl1.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAewFwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:59:52.104Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\uD83E\uDDF1 MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\\uD83E\uDDF1 MainForm.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\UI\\\uD83E\uDDF1 MainForm.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\\uD83E\uDDF1 MainForm.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\UI\\\uD83E\uDDF1 MainForm.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:12:10.753Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\uD83E\uDDF1 MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\\uD83E\uDDF1 MainForm.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\UI\\\uD83E\uDDF1 MainForm.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\\uD83E\uDDF1 MainForm.cs*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\UI\\\uD83E\uDDF1 MainForm.cs*",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAkwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:19:36.381Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Services\\OrderService.cs*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\Services\\OrderService.cs*",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAmwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:38:41.218Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\LoginForm.cs*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\UI\\LoginForm.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowEcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:14:56.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderHistoryForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\OrderHistoryForm.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\UI\\OrderHistoryForm.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\OrderHistoryForm.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\UI\\OrderHistoryForm.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:36:10.254Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderHistoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\OrderHistoryForm.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\UI\\OrderHistoryForm.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\OrderHistoryForm.cs*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\UI\\OrderHistoryForm.cs*",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAMwJkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:40:08.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\ProductForm.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\UI\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\ProductForm.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\UI\\ProductForm.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:30:54.435Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\ProductForm.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\UI\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\ProductForm.cs*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\UI\\ProductForm.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:37:02.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App1.config",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\App1.config",
+              "RelativeDocumentMoniker": "Nesne_Proje\\App1.config",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\App1.config",
+              "RelativeToolTip": "Nesne_Proje\\App1.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-24T10:21:52.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\LoginForm.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\UI\\LoginForm.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:14:40.437Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\Form1.cs*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\UI\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:05:33.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\Form1.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\UI\\Form1.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:13:35.327Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\UI\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\CategoryService.cs",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\UI\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:28:29.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartForm.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\CartForm.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\UI\\CartForm.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\CartForm.cs*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\UI\\CartForm.cs*",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:12:54.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\CartForm.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\UI\\CartForm.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\CartForm.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\UI\\CartForm.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:07:43.841Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BAK\u0130YE.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\BAK\u0130YE.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\UI\\BAK\u0130YE.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\BAK\u0130YE.cs",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\UI\\BAK\u0130YE.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:30:18.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BAK\u0130YE.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\BAK\u0130YE.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\UI\\BAK\u0130YE.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\BAK\u0130YE.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\UI\\BAK\u0130YE.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:25:35.355Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\App.config",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\UI\\App.config",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\App.config",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\UI\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-29T17:42:19.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Services\\UserService.cs*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\Services\\UserService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:45:03.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Services\\ProductService.cs*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\Services\\ProductService.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:11:54.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Services\\CartService.cs*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\Services\\CartService.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:16:23.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Repositories\\UserRepo.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\Repositories\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Repositories\\UserRepo.cs*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\Repositories\\UserRepo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:28:43.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Repositories\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\Repositories\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Repositories\\ProductRepo.cs*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\Repositories\\ProductRepo.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:22:04.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Repositories\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\Repositories\\OrderRepo.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Repositories\\OrderRepo.cs*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\Repositories\\OrderRepo.cs*",
+              "ViewState": "AgIAACsBAAAAAAAAAAAkwEsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:53:41.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderItemRepo.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Repositories\\OrderItemRepo.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\Repositories\\OrderItemRepo.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Repositories\\OrderItemRepo.cs",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\Repositories\\OrderItemRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:59:05.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Repositories\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\Repositories\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Repositories\\CategoryRepo.cs*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\Repositories\\CategoryRepo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:12:52.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CartItemRepo.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Repositories\\CartItemRepo.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\Repositories\\CartItemRepo.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Repositories\\CartItemRepo.cs",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\Repositories\\CartItemRepo.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:52:14.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Models\\Program.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\Models\\Program.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Models\\Program.cs",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\Models\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:00:41.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Models\\Product.cs*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\Models\\Product.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:47:59.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:53:41.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderEntity.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Models\\OrderEntity.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\Models\\OrderEntity.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Models\\OrderEntity.cs*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\Models\\OrderEntity.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:55:58.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Models\\Order.cs*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\Models\\Order.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:50:07.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Kullan\u0131c\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Models\\Kullan\u0131c\u0131.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\Models\\Kullan\u0131c\u0131.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Models\\Kullan\u0131c\u0131.cs*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\Models\\Kullan\u0131c\u0131.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:43:19.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Models\\Category.cs",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:55:15.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\Models\\CartItem.cs*",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\Models\\CartItem.cs*",
+              "ViewState": "AgIAAHQAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:00:03.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\ProductForm.Designer.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\UI\\ProductForm.Designer.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\ProductForm.Designer.cs",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\UI\\ProductForm.Designer.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAJsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:47:16.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderHistoryForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\OrderHistoryForm.Designer.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\UI\\OrderHistoryForm.Designer.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\OrderHistoryForm.Designer.cs",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\UI\\OrderHistoryForm.Designer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAhwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:42:27.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Nesne_Proje\\NESNE_CLASS\\UI\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\234410088\\source\\repos\\Nesne_Proje\\Nesne_Proje\\NESNE_CLASS\\UI\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Nesne_Proje\\NESNE_CLASS\\UI\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:44:03.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
